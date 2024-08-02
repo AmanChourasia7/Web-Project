@@ -5,13 +5,12 @@ The collection of my projects that i made, from 2016 - 2024 will be uploaded, he
 
 
 
-## Roadmap
+## 01. 90s Image Gallery
 
-- Additional browser support
+- It's a 90s styled image gallery, inspired from old cd photo casettes.
 
-- Add more integrations
+- It's been updated and refined by me before uploading, it's not as raw as it was created in 2016.
 
+- Here's a preview: [GitHub Pages](https://pages.github.com/).
 
-## Demo
-
-Insert gif or link to demo
+More soon.
