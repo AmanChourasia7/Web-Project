@@ -7,7 +7,7 @@ The collection of my projects that i made, from 2016 - 2024 will be uploaded, he
 
 ## 01. 90s Image Gallery
 
-![Preview Image]((https://github.com/DharmicDeveloper/Projects/blob/main/01.%20Retro%20Image%20Gallery/preview.jpg))
+![Preview Image](https://github.com/DharmicDeveloper/Projects/blob/main/01.%20Retro%20Image%20Gallery/preview.jpg)
 
 - It's a 90s styled image gallery, inspired from old cd photo casettes.
 
